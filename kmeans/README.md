@@ -6,11 +6,11 @@ The kcluster.py is the algorithm while image.py contains an application of the k
 
 
 <b>K=3 on the iris dataset</b> <br>
-![K3](https://github.com/not16ankit/kmeans/blob/main/kmeans2d(1).gif)
+![K3](https://github.com/not16ankit/algorithms-scratch/kmeans/blob/main/kmeans2d(1).gif)
 
 <br><br>
 This is a lake picture lmao<br>
-![2clusters](https://github.com/not16ankit/kmeans/blob/main/image.jpg)
+![2clusters](https://github.com/not16ankit/algorithms-scratch/kmeans/blob/main/image.jpg)
 
 <br>
 
@@ -18,8 +18,8 @@ This is a lake picture lmao<br>
 Image Compression
 K=2
 <br>
-![k2](https://github.com/not16ankit/kmeans/blob/main/2_cluster.jpg)
+![k2](https://github.com/not16ankit/algorithms-scratch/kmeans/blob/main/2_cluster.jpg)
 <br>
 K=5
 <br>
-![k5](https://github.com/not16ankit/kmeans/blob/main/5_cluster.jpg)
+![k5](https://github.com/not16ankit/algorithms-scratch/kmeans/blob/main/5_cluster.jpg)
