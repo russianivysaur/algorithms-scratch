@@ -1,5 +1,3 @@
-NPTEL resultant references
-
 ![ID3](https://github.com/not16ankit/algorithms-scratch/blob/main/decisiontree/iterative-dichotomiser/id3.png)
 
 ![ID3](https://github.com/not16ankit/algorithms-scratch/blob/main/decisiontree/iterative-dichotomiser/id3_2.png)
