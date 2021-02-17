@@ -1,6 +1,5 @@
 # kmeans
 Image compression with k-means from scratch
-![ID3](https://github.com/not16ankit/algorithms-scratch/blob/main/decision-trees/iterative-dichotomiser/id3.png)
 
 The kcluster.py is the algorithm while image.py contains an application of the kmeans to compress a beautiful image of a lake near my house.
 
