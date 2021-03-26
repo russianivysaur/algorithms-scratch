@@ -3,4 +3,4 @@ Describing a simple linear kernel SVM. It is a linear kernel which is why the al
 <br>
 <b>Library SVM vs manual built algo</b>
 <br>
-[!nvm](https://github.com/not16ankit/algorithms-scratch/blob/main/svm/linear-kernel-primal-equation/Screencast%202021-03-26%2007_28_31.gif)
+![nvm](https://github.com/not16ankit/algorithms-scratch/blob/main/svm/linear-kernel-primal-equation/Screencast%202021-03-26%2007_28_31.gif)
